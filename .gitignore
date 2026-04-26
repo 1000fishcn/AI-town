@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+tests/tmp*/
+hello_agents/
+.venv/
+aitown/memory/faiss_store/
+aitown/memory/json_store/
+*.log
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/

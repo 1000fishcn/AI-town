@@ -1,0 +1,12 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1777192022
+README.md::TextFile::-1::1777191842::0::1::::<><><>0<>0<><>::
+::res://scenes/::1777191730
+Main.tscn::PackedScene::-1::1777191730::0::1::::<><><>0<>0<><>::res://scripts/main.gd
+::res://scripts/::1777191807
+api_client.gd::GDScript::5786653588833604963::1777191737::0::1::::ApiClient<>Node<><>0<>0<><>::
+dialogue_ui.gd::GDScript::5783276646853854765::1777191868::0::1::::DialogueUI<>CanvasLayer<><>0<>0<><>::
+main.gd::GDScript::5701355826990366546::1777191872::0::1::::<>Node2D<><>0<>0<><>::
+npc.gd::GDScript::2269541989824393709::1777191760::0::1::::TownNpc<>StaticBody2D<><>0<>0<><>::
+player.gd::GDScript::6440215758600811752::1777191751::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+world_map.gd::GDScript::930086806972832059::1777191775::0::1::::WorldMap<>Node2D<><>0<>0<><>::
